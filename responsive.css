@@ -1,0 +1,140 @@
+@media (max-width:1199px) {
+	.hero-img::before {
+		display: none;
+	}
+	.project-img5 img {
+		height: 148px;
+	}
+	.project-img2 img {
+		margin-bottom: 32px;
+		height: 261px;
+	}
+}
+
+@media (max-width:1015px) {
+	.hero-img {
+		width: 415px;
+		margin-top: 145px;
+	}
+	.hero-content h1 {
+		font-size: 53px;
+	}
+	.hero-content h5 {
+		font-size: 20px;
+	}
+}
+
+@media (max-width: 991px) {
+	.hero-content {
+		padding-top: 120px;
+		padding-left: 0px;
+	}
+	.project-img2 img {
+		margin-bottom: 0px;
+	}
+	.blog-2 img {
+		width: 100%;
+	}
+	.scroll-up {
+		right: 15px;
+	}
+}
+
+@media (max-width:879px) {
+	.hero-content h1 {
+		font-size: 35px;
+	}
+	.hero-img {
+		width: 358px;
+		margin-top: 131px;
+	}
+	.hero-content h5 {
+		font-size: 15px;
+	}
+	.hero-content a.hero-btn {
+		padding: 7px 12px;
+	}
+	.hero-social li {
+		margin-top: 50px;
+		padding-right: 21px;
+	}
+}
+
+@media (max-width: 784px) {
+	.hero-content h1 {
+		font-size: 44px;
+	}
+	.hero-content h5 {
+		margin-bottom: 30px;
+		font-size: 14px;
+		margin-top: 10px;
+	}
+	.hero-social li {
+		padding-right: 16px;
+		font-size: 20px;
+		margin-top: 50px;
+	}
+	.hero-content a.hero-btn {
+		padding: 7px 14px;
+	}
+	.hero-img {
+		width: 351px;
+		margin-top: 126px;
+	}
+}
+
+@media (max-width: 767px) {
+	.hero-content h1 {
+		font-size: 48px;
+	}
+	.hero-img {
+		width: 100%;
+	}
+	.hero-img {
+		margin-top: 98px;
+	}
+	.single-service-box {
+		margin-top: 30px;
+	}
+	h1.service-title {
+		margin-bottom: 2rem;
+	}
+	section#skills h1.service-title {
+		margin-bottom: 5rem;
+	}
+	.project-img1 img {
+		margin-bottom: 25px;
+	}
+	.project-img2 img {
+		margin-bottom: 25px;
+	}
+	.project-img3 img {
+		margin-bottom: 25px;
+	}
+	.project-img4 img {
+		margin-bottom: 25px;
+	}
+}
+
+@media (max-width:575px) {
+	.hero-content {
+		padding-left: 48px;
+	}
+	.about-content {
+		margin-top: 20px;
+	}
+	.single-blog:first-child {
+		margin-bottom: 3rem;
+		margin-top: 3rem;
+	}
+	input#fname {
+		margin-bottom: 3rem;
+		margin-top: 3rem;
+	}
+}
+
+@media (max-width:586px) {
+	.about-img::before {
+		display: none;
+	}
+}
